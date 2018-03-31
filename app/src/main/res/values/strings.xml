@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Firebase</string>
+    <string name="ca">Create an Account</string>
+    <string name="inputmail">Input Email</string>
+    <string name="inputname">Input Username</string>
+    <string name="inputpwd">Input Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="account">Do you have an account ?</string>
+    <string name="loginup">Login</string>
+    <string name="login">LOGIN</string>
+    <string name="loginbtn">LOGIN</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">password</string>
+    <string name="dont_you_have_an_account">Dont you have an account ?</string>
+    <string name="connect_with_facebook">Connect with Facebook</string>
+    <string name="or">or</string>
+    <string name="dont_you_remember_your_password">Dont you remember your Password</string>
+    <string name="facebook">facebook</string>
+    <string name="signup">SignUp</string>
+</resources>
